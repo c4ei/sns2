@@ -1,0 +1,6 @@
+port 3030
+domain : sns.c4ei.net
+
+cd /home/dev/www/sns2/back
+yarn dev
+
